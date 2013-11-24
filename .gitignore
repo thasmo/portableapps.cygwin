@@ -3,8 +3,6 @@
 Thumbs.db
 
 # IDE specific
-.komodotools
-*.komodoproject
 .idea
 
 # Project specific
