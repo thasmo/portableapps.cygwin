@@ -1,9 +1,2 @@
-# OS specific
-.DS_Store
-Thumbs.db
-
-# IDE specific
-.idea
-
-# Project specific
+# Project
 *.exe
